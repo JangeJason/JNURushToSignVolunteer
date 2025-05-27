@@ -12,9 +12,9 @@ driver_path = os.path.join(os.getcwd(), 'chromedriver-mac-arm64', 'chromedriver'
 service = Service(driver_path)
 #----------------------------------------------------------------------------------------
 # 输入的数据可以通过这些变量进行修改，不能删掉引号''
-name = '吴疆'     #输入姓名
-student_id = '2022102178'      #输入学号
-phone_number = '13530112535'    #输入电话
+name = '姓名'     #输入姓名
+student_id = '学号'      #输入学号
+phone_number = '电话'    #输入电话
 department = '信息科学技术学院'     #输入学院
 dropdown_value = 'T1'  #修改楼栋，比如 'T1' 到 'T12'，必须是大写T
 
