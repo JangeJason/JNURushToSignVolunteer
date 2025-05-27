@@ -1,5 +1,5 @@
-# JNURushToSignVolunteer
-#### JNU半自动抢社区志愿代码，适用于冰箱清理，外卖台清理志愿报名。
+# JNURushToSignVolunteer JNU半自动抢社区志愿
+#### JNU半自动抢社区志愿代码，适用于冰箱清理，外卖台清理志愿报名。会比正常快很多，只用复制一个链接
 
 
 
